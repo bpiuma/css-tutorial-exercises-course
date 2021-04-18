@@ -2,5 +2,8 @@ body {
 	background: #bdbdbd;
 }
 .rounded {
+	height: 286px;
+	width: 286px;
 	border-radius: 100%;
+	object-fit: cover;
 }
